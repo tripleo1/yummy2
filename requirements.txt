@@ -1,7 +1,7 @@
 alembic==1.1.0
 appdirs==1.4.3
 attrs==19.1.0
-blinker==1.4
+blinker==1.5
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
